@@ -24,7 +24,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "animate.css": "^3.7.0",
     "bloodhound-js": "^1.2.3",
     "bootstrap": "^3.4.1",
